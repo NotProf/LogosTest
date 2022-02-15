@@ -16,7 +16,7 @@ public class Main {
         for (Flower flower : bucket) {
             sum += flower.price;
         }
-//        System.out.println(sum);
+        System.out.println(sum);
     }
 }
 
